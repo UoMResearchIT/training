@@ -1,5 +1,6 @@
-# University Of Manchester Research IT training
-A meta-repository to navigate training material used by Research IT
+# Research IT training at the University Of Manchester 
+A meta-repository to navigate training material used by Research IT.
+
 Enquiries to <its-research-training@manchester.ac.uk>
 
 # Lesson repositories
