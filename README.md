@@ -13,3 +13,8 @@ Enquiries to <its-research-training@manchester.ac.uk>
 |Programming in Python|[Repo](https://github.com/uomresearchit/python-advanced-jupyter)|[Register](https://app.manchester.ac.uk/rpythonpro)|
 |[R for data analysis](https://uomresearchit.github.io/r-tidyverse-intro)|[Repo](https://github.com/UoMResearchIT/r-tidyverse-intro)|[Register](https://app.manchester.ac.uk/rrdata)|
 |[Automation and Make](https://swcarpentry.github.io/make-novice)|[Repo](https://github.com/swcarpentry/make-novice)|[Register](https://app.manchester.ac.uk/rmake)|
+
+# Software Carpentry workshops
+|Website|Repository|
+|---|---|
+|[2018-07-03 (Bash, Python, Git)](https://uomresearchit.github.io/2018-07-03-manchester/)|[2018-07-03](https://github.com/uomResearchIT/2018-07-03-manchester)|
