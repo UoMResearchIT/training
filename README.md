@@ -17,7 +17,7 @@ Enquiries to <its-research-training@manchester.ac.uk>
 # Software Carpentry workshops
 Workshops run by Research IT are listed below, but other groups at the University Of Manchester
 also run workshops.
-[This web page](https://anenadic.github.io/carpentries-manchester/) (GitHub [repo](https://github.com/anenadic/carpentries-manchester))
+[The carpentry events web page](https://uomresearchit.github.io/carpentries-manchester/) (GitHub [repo](https://github.com/anenadic/carpentries-manchester))
 is an effort to list all the Software and Data Carpentry workshops in one place.
 
 |Website|Repository|
