@@ -11,6 +11,8 @@ The training coordinator (Gerard Capes) books a PC cluster for a number
 of dates throughout the year, and then allocates the courses based on
 the availability of the trainers.
 
+[Current schedule]
+
 I create a new appointment in the email calendar system,
 and invite the trainer, helpers, and Research IT News,
 in the hope that everyone who needs to know the details can see them in one place.
@@ -40,7 +42,8 @@ to new applicants.
 We teach mostly in the style of Software Carpentry i.e. live-coding / code-along
 see [Instructor Training] and [Teaching Tips].
 
-We use G11 in Sackville as a least-worst option.
+We use G11 in Sackville as a least-worst option. There is a coded lock on the door,
+and the door is sometimes locked. Speak to a colleague for the code.
 One of the problems is that it's a big room, often with lots of external noise.
 As such we have a couple of voice amplifier microphones available for use.
 **Trainers should collect a microphone from B38 Sackville the day before the training,
@@ -69,7 +72,9 @@ People can apply to the waiting list if the event is full, but if someone with a
 place cancels, the place is not filled automatically from the waiting list.
 
 As such, when you receive an email alert informing of a cancellation, you should
-review the waiting list and manually transer applications to a course event.
+review the waiting list and manually transfer applications to a course event.
+
+Details of how to use the training catalogue are given in the [guide].
 
 ## Checklist for trainers before teaching
 - Collect and charge microphone the day before
@@ -90,8 +95,9 @@ review the waiting list and manually transer applications to a course event.
 ## Software
 This should be requested over the summer (starting around July) so that it can be deployed
 and tested on the cluster PCs ahead of time.
-I recommend checking that it has deployed and works, even though you'll have done UAT
-previously.
+I recommend checking that it has deployed and works, even though you'll have done
+User Acceptance Testing previously.
+
 Sometimes learners will bring their laptop --- I usually try to help with any setup
 difficulties, but stress that the course teaches the tool, not the setup, and they should
 submit a support ticket if it can't be resolved quicky or during a break.
@@ -116,10 +122,15 @@ be a bit frantic. They need a central teaching room to be booked which is big en
 of applicants, plus a bit of extra space to move around.
 On top of a normal course, we need to remember:
 
-- set up a workshop website
-- trailing power sockets
-- extra helpers for set-up problems
+- set up a [workshop website](https://github.com/carpentries/workshop-template)
+- trailing power sockets, so the learners can power their laptops
+- extra helpers for set-up problems, compared with a normal 1-day workshop using training PCs
+
+See also the official [workshop checklist].
 
 [Teaching Tips]: https://software-carpentry.org/blog/2015/03/teaching-tips.html
 [Instructor Training]: http://carpentries.github.io/instructor-training/
-[training catalogue]: Training-Catalogue_Online-Booking-and-Search-Facility-v4.pdf
+[guide]: Training-Catalogue_Online-Booking-and-Search-Facility-v4.pdf
+[Current schedule]: http://www.staffnet.manchester.ac.uk/staff-learning-and-development/academicandresearch/practical-skills-and-knowledge/it-skills/research-computing/research-courses/
+[training catalogue]: http://app.manchester.ac.uk/training/default.aspx
+[workshop checklist]: https://docs.carpentries.org/topic_folders/hosts_instructors/hosts_instructors_checklist.html
