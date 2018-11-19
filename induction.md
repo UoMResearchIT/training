@@ -74,7 +74,16 @@ place cancels, the place is not filled automatically from the waiting list.
 As such, when you receive an email alert informing of a cancellation, you should
 review the waiting list and manually transfer applications to a course event.
 
-Details of how to use the training catalogue are given in the [guide].
+An overview of how to use the training catalogue is given in the [guide],
+but the waiting list management is detailed below:
+
+Click the participants tab and select *waiting list* as the event,
+and status as *pending*.
+Select the students you want to move to the event,
+and change new status to *confirmed*, and click the *override constraints*
+button.
+Then choose update status and set their event to the one you
+want to move them to.
 
 ## Checklist for trainers before teaching
 - Collect and charge microphone the day before
