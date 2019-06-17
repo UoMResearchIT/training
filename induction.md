@@ -17,7 +17,7 @@ I create a new appointment in the email calendar system,
 and invite the trainer, helpers, and Research IT News,
 in the hope that everyone who needs to know the details can see them in one place.
 This doesn't always work as intended
-(maybe staff accept but don't send a response to the event, 
+(maybe staff accept but don't send a response to the event,
 so their acceptance doesn't show correctly to the event organiser)
 but no system is foolproof.
 
@@ -30,9 +30,9 @@ course details.
 I aim to schedule the courses mid-week, because it doesn't interfere with anyone
 taking a long weekend, and anecodotally it gives better attendance.
 
-The PC cluster booking system has had a new URL each year and is only made live
+The PC cluster booking system for each year is only made live
 over the summer --- normally August.
-This has just changed to an externally provided system: https://resourcebooker.manchester.ac.uk/
+The system for this is now https://resourcebooker.manchester.ac.uk/
 
 If there is anyone on the waiting list when the course schedule is set for the year,
 I usually clear the waiting list onto the first event before advertising the schedule
@@ -93,7 +93,7 @@ want to move them to.
 ## Checklist for helpers
 - Read the course material and ensure you understand the exercises
 - Walk round the room --- learners will often 'grab' you for help if you're close by
-- Look out for learners requesting help via sticky notes 
+- Look out for learners requesting help via sticky notes
 - Give feedback to the trainer as required e.g.
 	- too fast/ too slow
 	- can't read screen
@@ -117,7 +117,7 @@ Sometimes we have requests to accommodate external applicants.
 This is extra work because if the learner brings their laptop and can't access eduroam,
 this can be a deal breaker.
 A 'conference plus' temporary account can be requested in advance, which gives a log in
-for the trainnig PCs. It's extra admin, so we only want to do this if the external applicant
+for the training PCs. It's extra admin, so we only want to do this if the external applicant
 is paying to attend a course. This is currently being investigated as a thing.
 
 ## External trainers
