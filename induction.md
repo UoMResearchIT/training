@@ -77,8 +77,8 @@ review the waiting list and manually transfer applications to a course event.
 An overview of how to use the training catalogue is given in the [guide],
 but the waiting list management is detailed below:
 
-Click the participants tab and select *waiting list* as the event,
-and status as *pending*.
+Click the participants tab, select *waiting list* as the event,
+and status as *pending*, then click on *filter*.
 Select the students you want to move to the event,
 and change new status to *confirmed*, and click the *override constraints*
 button.
@@ -87,7 +87,7 @@ want to move them to.
 
 ## Checklist for trainers before teaching
 - Collect and charge microphone the day before
-- Get some sticky notes
+- Get some sticky notes if you're using them
 - Check you have helpers, and that they are aware of this
 
 ## Checklist for helpers
