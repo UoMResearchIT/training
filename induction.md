@@ -7,32 +7,28 @@ The current [list of courses] is scheduled in advance for the whole year,
 but extra courses can be added throughout the year if required.
 
 ## Setting the schedule
-The training coordinator (Gerard Capes) books a PC cluster for a number
-of dates throughout the year, and then allocates the courses based on
-the availability of the trainers.
-
-[Current schedule]
-
-I create a new appointment in the email calendar system,
-and invite the trainer, helpers, and Research IT News,
-in the hope that everyone who needs to know the details can see them in one place.
-This doesn't always work as intended
-(maybe staff accept but don't send a response to the event,
-so their acceptance doesn't show correctly to the event organiser)
-but no system is foolproof.
-
-If in doubt, OWA (webmail) seems to be reliable in this regard.
-
-Research IT News is invited to the event for promotional and scheduling purposes.
-Gillian Sinclair writes the Research IT News newsletter which includes training
-course details.
-
 I aim to schedule the courses mid-week, because it doesn't interfere with anyone
 taking a long weekend, and anecodotally it gives better attendance.
 
 The PC cluster booking system for each year is only made live
 over the summer --- normally August.
 The system for this is now https://resourcebooker.manchester.ac.uk/
+
+I typically book a PC cluster for a number of dates throughout the year,
+and then the courses can be allocated based on the availability of the trainers.
+
+[Current schedule]
+
+Course instructors should:
+- choose available dates from this [spreadsheet]
+- create new events in the [training catalogue]
+- find helpers for their course - volunteers in the [spreadsheet]
+- create an Outlook calendar event and invite helpers and
+  ResearchITNews@manchester.ac.uk
+
+Research IT News is invited to the event for promotional and scheduling purposes.
+The Research IT News newsletter promotes training, so this is the easiest way to
+communicate the course details.
 
 If there is anyone on the waiting list when the course schedule is set for the year,
 I usually clear the waiting list onto the first event before advertising the schedule
@@ -89,6 +85,7 @@ want to move them to.
 - Collect and charge microphone the day before
 - Get some sticky notes if you're using them
 - Check you have helpers, and that they are aware of this
+- Fill empty places from the waiting list when you get cancellations
 
 ## Checklist for helpers
 - Read the course material and ensure you understand the exercises
@@ -143,3 +140,4 @@ See also the official [workshop checklist].
 [Current schedule]: http://www.staffnet.manchester.ac.uk/staff-learning-and-development/academicandresearch/practical-skills-and-knowledge/it-skills/research-computing/research-courses/
 [training catalogue]: http://app.manchester.ac.uk/training/default.aspx
 [workshop checklist]: https://docs.carpentries.org/topic_folders/hosts_instructors/hosts_instructors_checklist.html
+[spreadsheet]: https://drive.google.com/file/d/1fOZKNq0-2DziSk2f-cwNavqVwgkQqOIU/view?usp=sharing
