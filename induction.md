@@ -3,7 +3,7 @@
 ## Overview
 Research IT delivers most of its training in the form of 1-day courses,
 which are open to applications from staff and PG students.
-The current [list of courses] is scheduled in advance for the whole year,
+The current [list of courses][schedule] is scheduled in advance for the whole year,
 but extra courses can be added throughout the year if required.
 
 ## Setting the schedule
@@ -17,7 +17,7 @@ The system for this is now https://resourcebooker.manchester.ac.uk/
 I typically book a PC cluster for a number of dates throughout the year,
 and then the courses can be allocated based on the availability of the trainers.
 
-[Current schedule]
+[Current schedule][schedule]
 
 Course instructors should:
 - choose available dates from this [spreadsheet]
@@ -137,7 +137,7 @@ See also the official [workshop checklist].
 [Teaching Tips]: https://software-carpentry.org/blog/2015/03/teaching-tips.html
 [Instructor Training]: http://carpentries.github.io/instructor-training/
 [guide]: Training-Catalogue_Online-Booking-and-Search-Facility-v4.pdf
-[Current schedule]: http://www.staffnet.manchester.ac.uk/staff-learning-and-development/academicandresearch/practical-skills-and-knowledge/it-skills/research-computing/research-courses/
+[schedule]: http://www.staffnet.manchester.ac.uk/staff-learning-and-development/academicandresearch/practical-skills-and-knowledge/it-skills/research-computing/research-courses/
 [training catalogue]: http://app.manchester.ac.uk/training/default.aspx
 [workshop checklist]: https://docs.carpentries.org/topic_folders/hosts_instructors/hosts_instructors_checklist.html
 [spreadsheet]: https://docs.google.com/spreadsheets/d/1t145FFVd1_oQkOGHIz_YjbxO_9cH0YFZHIw4v4P9NAc/edit?usp=sharing
