@@ -137,7 +137,7 @@ See also the official [workshop checklist].
 [Teaching Tips]: https://software-carpentry.org/blog/2015/03/teaching-tips.html
 [Instructor Training]: http://carpentries.github.io/instructor-training/
 [guide]: Training-Catalogue_Online-Booking-and-Search-Facility-v4.pdf
-[schedule]: http://www.staffnet.manchester.ac.uk/staff-learning-and-development/academicandresearch/practical-skills-and-knowledge/it-skills/research-computing/research-courses/
+[schedule]: https://www.staffnet.manchester.ac.uk/staff-learning-and-development/learning-pathways/professional-and-technical-development/it-skills/research-computing/research-courses/
 [training catalogue]: http://app.manchester.ac.uk/training/default.aspx
 [workshop checklist]: https://docs.carpentries.org/topic_folders/hosts_instructors/hosts_instructors_checklist.html
 [spreadsheet]: https://docs.google.com/spreadsheets/d/1t145FFVd1_oQkOGHIz_YjbxO_9cH0YFZHIw4v4P9NAc/edit?usp=sharing
