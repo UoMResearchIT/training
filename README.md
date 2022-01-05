@@ -19,7 +19,3 @@ Workshops run by Research IT are listed below, but other groups at the Universit
 also run workshops.
 [The carpentry events web page](https://uomresearchit.github.io/carpentries-manchester/) (GitHub [repo](https://github.com/anenadic/carpentries-manchester))
 is an effort to list all the Software and Data Carpentry workshops in one place.
-
-|Website|Repository|
-|---|---|
-|[2018-07-03 (Bash, Python, Git)](https://uomresearchit.github.io/2018-07-03-manchester/)|[2018-07-03](https://github.com/uomResearchIT/2018-07-03-manchester)|
