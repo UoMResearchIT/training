@@ -98,6 +98,8 @@ want to move them to.
 	- how long is the break
 - Think about what went well and what didn't for post-course feedback
 
+[What does a helper do?](https://software-carpentry.org/blog/2017/07/helper.html)
+
 ## Software
 This should be requested over the summer (starting around July) so that it can be deployed
 and tested on the cluster PCs ahead of time.
