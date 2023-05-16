@@ -101,7 +101,6 @@ We no longer tend to use PC clusters, so learners will typically use their lapto
 As such, instructions on how to install software should be sent in the course reminder email.
 
 I usually try to help with any setup difficulties on the day, 
-
 but stress that the course teaches the tool rather than the setup, and they should
 submit a support ticket if it can't be resolved quickly or during a break.
 
