@@ -18,11 +18,13 @@ Courses can run online (Zoom), or on campus, at the discretion of the trainer.
 
 - [ ] set up a Zoom event / book a [teaching room](https://resourcebooker.manchester.ac.uk/)
 - [ ] create new events in the [training catalogue]
-- [ ] update the custom reminder email with Zoom/room details
+- [ ] update the custom reminder email with Zoom/room details (this is sent 1 week before the course)
 - [ ] move applicants from the waiting list onto the new event
 - [ ] find helpers for the course
 - [ ] create an Outlook calendar event and invite helpers and
   ResearchITNews@manchester.ac.uk
+- [ ] check for last-minute applicants (< 1 week before the event)
+  and email them the details from the custom reminder email 
 
 Research IT News is invited to the event for promotional and scheduling purposes.
 The Research IT News newsletter promotes training, so this is the easiest way to
