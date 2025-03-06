@@ -12,6 +12,8 @@ Enquiries to <its-research-training@manchester.ac.uk>
 |[Introduction to Python](https://swcarpentry.github.io/python-novice-inflammation/)|[Repo](https://swcarpentry.github.io/python-novice-inflammation/)|[Register](https://app.manchester.ac.uk/rpythonint)|
 |[Programming in Python](https://uomresearchit.github.io/programming_with_python/)|[Repo](https://github.com/UoMResearchIT/programming_with_python/)|[Register](https://app.manchester.ac.uk/rpythonpro)|
 |[R for data analysis](https://uomresearchit.github.io/r-tidyverse-intro)|[Repo](https://github.com/UoMResearchIT/r-tidyverse-intro)|[Register](https://app.manchester.ac.uk/rrdata)|
+|[Programming with MATLAB](https://uomresearchit.github.io/matlab-novice/)|[Repo](https://github.com/UoMResearchIT/matlab-novice)|[Register](http://app.manchester.ac.uk/RMATLABINT)|
+|[Intro to Docker](https://uomresearchit.github.io/docker-introduction/introduction.html)|[Repo](https://github.com/UoMResearchIT/docker-introduction)|[Register](http://app.manchester.ac.uk/RDOCKER)|
 
 # Past lesson repositories
 |Lesson|Repository|Registration page|Last ran on|
